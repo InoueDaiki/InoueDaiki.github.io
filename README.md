@@ -1,5 +1,7 @@
 # InoueDaiki.github.io
 
+[![Build Status](https://travis-ci.com/InoueDaiki/InoueDaiki.github.io.svg?branch=master)](https://travis-ci.com/InoueDaiki/InoueDaiki.github.io)
+
 ## 導入したライブラリ
 
 ```
@@ -24,11 +26,11 @@ create-nuxt-app v3.3.0
 
 https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type
 
-* **feat**: A new feature
-* **fix**: A bug fix
-* **docs**: Documentation only changes
-* **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-* **refactor**: A code change that neither fixes a bug nor adds a feature
-* **perf**: A code change that improves performance
-* **test**: Adding missing or correcting existing tests
-* **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
+* **feat**: 新機能
+* **fix**: バグ修正
+* **docs**: ドキュメントのみ変更
+* **style**: コードの意味に影響を与えない変更（空白、書式設定、セミコロンの欠落など）
+* **refactor**: バグの修正も機能の追加も行わないコード変更
+* **perf**: パフォーマンスを向上させるコード変更
+* **test**: 存在しないテストの追加または既存のテストの修正
+* **chore**: ビルドプロセスの変更、またはドキュメント生成などの補助ツールとライブラリ
