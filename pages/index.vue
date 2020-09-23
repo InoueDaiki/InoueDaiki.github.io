@@ -7,7 +7,7 @@
     </v-parallax>
     <v-container>
       <v-row>
-        <v-col cols="6" md="3">
+        <v-col cols="4" md="2">
           <v-img :src="avatarURL" class="rounded-circle"></v-img>
         </v-col>
         <v-col>
